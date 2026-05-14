@@ -1,2 +1,2 @@
-In order to start the application run ui.py
-select the inventory data to be optimized
+In order to run the application fist install all required libraries as shown in requirements.txt
+launch ui.py and select inventory file(.xlsx,.xls) to be optimize
